@@ -1,6 +1,7 @@
-# my_projects
-Здесь собраны проекты, выполненные когда-либо мной. Основные инструменты и библиотеки, которые я испоьзую: pandas, seaborn, matplotlib, phik, sklearn, lightgbm, catboost, optuna
-**Описание проектов**
+# Мои проекты
+<p>Здесь собраны проекты, выполненные когда-либо мной. 
+<p><b>Основные инструменты и библиотеки</b>>, которые я испоьзую: pandas, seaborn, matplotlib, phik, sklearn, lightgbm, catboost, optuna
+
 <table>
 <thead>
 <tr>

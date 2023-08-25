@@ -34,7 +34,7 @@
 <tr>
 <td align="left"><a href="https://github.com/Liolija/my_projects/blob/main/report_reserch/project_articles.ipynb" rel="nofollow">Автоматизация отчетов публикационной активности</a></td>
 <td>Задача проекта: автоматизация отчетов публикационной активности студентов и преподавателей. </td>
-<td align="right">pandas, seaborn, matplotlib</td>
+<td align="right">pandas, python-docx</td>
 </tr>
 </tbody>
 </table>

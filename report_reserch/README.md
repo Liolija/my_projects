@@ -4,4 +4,5 @@
 <p><b>Пример исходных данных</b>
 <p align="left"> <img src="https://i.imgur.com/UBjJXQF.png" /> </p>
 <p><b>Результат после автоматизации</b>
-<p align="left"> <img src="https://i.imgur.com/Oi8h6zk.png"  /> </p>
+<p align="left"> <img src="https://i.imgur.com/vlN7Wq2.png"  /> </p>
+<p align="left"> <img src="https://i.imgur.com/RgYaxEn.png"  /> </p>
